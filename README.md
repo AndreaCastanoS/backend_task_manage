@@ -46,8 +46,7 @@ Consulta la documentación completa de los endpoints en la ruta `/api-docs` (dis
 ```
 npm install
 ```
-
-Paso 3: Ejecutar la aplicación:
+ 3: Ejecutar la aplicación:
 
    ```
    npm run dev
