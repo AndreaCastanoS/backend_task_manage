@@ -39,7 +39,7 @@ Consulta la documentación completa de los endpoints en la ruta `/api-docs` (dis
 ## ⚙️ Instalación y configuración
 1. Clona el repositorio:  
    ```bash
-   git clone https://github.com/tuusuario/task-manager-backend.git](https://github.com/AndreaCastanoS/backend_task_manager.git
+   git clone https://github.com/AndreaCastanoS/backend_task_manager.git
      ```
    
 2. Instala las dependencias:
