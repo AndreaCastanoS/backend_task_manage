@@ -18,7 +18,7 @@ Este es el backend para la aplicación de gestión de tareas "Task Manager". Pro
 
 ## Despliegue
 
-Este proyecto se encuentra desplegado en **Render**.
+Esta API se encuentra desplegado en **Render**.
 
 **Enlace API desplegada:**
 https://backend-task-manager-bhf7.onrender.com
