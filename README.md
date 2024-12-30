@@ -16,6 +16,13 @@ Este es el backend para la aplicación de gestión de tareas "Task Manager". Pro
 3. **Filtros**: Opciones para filtrar tareas por su estado (completadas o pendientes).
 4. **Documentación interactiva**: Todos los endpoints están documentados con Swagger.
 
+## Despliegue
+
+Este proyecto se encuentra desplegado en **Render**.
+
+**Enlace API desplegada:**
+https://backend-task-manager-bhf7.onrender.com
+
 ## 🚀 Endpoints
 1. **POST /api/tasks**  
    - Crea una nueva tarea.  
